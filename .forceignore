@@ -10,3 +10,7 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+#Profiles
+**.profile-meta.xml
+force-app/main/default/profiles/Customer Community Plus User.profile-meta.xml
