@@ -14,3 +14,6 @@ package.xml
 #Profiles
 **.profile-meta.xml
 force-app/main/default/profiles/Customer Community Plus User.profile-meta.xml
+#Standard Objects
+force-app/main/default/objects/Account/fields/**
+force-app/main/default/objects/Contact/fields/**

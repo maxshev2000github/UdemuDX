@@ -1,5 +1,5 @@
 {
-  "orgName": "maximshevchenko company",
-  "edition": "Developer",
-  "features": []
+  "orgName": "Space Cosmetics",
+  "edition": "Enterprise",
+  "features": ["Communities","PersonAccounts"]
 }
